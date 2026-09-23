@@ -47,6 +47,3 @@ python final.py
 
 Requires GLUT support — this comes bundled with PyOpenGL on most platforms; on Linux you may need to separately install `freeglut3-dev`.
 
-## Course Info
-
-Built for CSE423, Computer Graphics.
